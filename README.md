@@ -1,3 +1,3 @@
 # My TF2 config files
 
-I am using mastercomfig! Open the user folder for class-specific configs!
+I am using mastercomfig! Check the user folder for class-specific configs!
